@@ -2,34 +2,35 @@
 
 ## 🚀 About Me  
 - 💻 I love building real-world applications and solving complex problems  
-- 🔗 Interested in **Blockchain, AI, and Scalable Web Systems**  
-- 🧠 Strong in **DSA (650+ problems solved on LeetCode)**  
+- 🔗 Interested in **Blockchain, AI, and Scalable Web Systems**
 - ⚡ Always exploring new technologies and building projects  
 
 ## 🛠️ Tech Stack  
 
-### 💻 Programming  
+### 💻 Programming Languages
 `C` `C++` `Python` `Java` `Bash`  
 
 ### 🌐 Web Development  
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
-`Node.js` `Express.js` `Django`
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Streamlit`
+
+### ⚙️ Backend Development
+`Node.js` `Express.js` `FastAPI` `Django` 
 
 ### 📱 App Development  
 `React Native` `Kotlin` `Jetpack Compose`  
 
 ### 🗄️ Databases  
-`MySQL` `MongoDB` `Firebase` `Supabase`
+`MySQL` `Postgres` `MongoDB` `Firebase` `Supabase`
 
-### ⚙️ Tools & Platforms  
-`Git` `GitHub` `Docker` `VS Code` `Android Studio` `Figma` `Notion` `npm`
+### 🧰 Tools & Platforms  
+`Git` `GitHub` `VS Code` `Android Studio` `Docker` `Figma` `Notion`
 
 ### 🤖 AI & Automation  
-`Ollama` `n8n`  
+`Ollama` `n8n` `RAG` `Gen AI`
 
 ## 🏆 Achievements  
 - 🥇 Top 15 – TNSkills (Software Application Development)  
-- 🧠 Top 18 – Defy’26 Hackathon (Blockchain Invoice Funding Platform)  
+- 🧠 Top 18 – Defy’26 Hackathon (Blockchain-based Invoice Funding Platform)  
 - 💡 LeetCode: 650+ problems solved | Max Rating: 1783  
 - 🔥 CodeChef: 2⭐ Rating (Max: 1425)  
 
