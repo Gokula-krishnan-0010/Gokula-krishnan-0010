@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Gokula Krishnan S  
-
-## 🚀 About Me  
+## 👋 Hi, I'm Gokula Krishnan S  
 - 💻 I love building real-world applications and solving complex problems  
 - 🔗 Interested in **Blockchain, AI, and Scalable Web Systems**
 - ⚡ Always exploring new technologies and building projects  
