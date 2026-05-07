@@ -8,35 +8,30 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages
-`C` `C++` `Python` `Java` `Bash`  
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,solidity,bash)
 
-### 🌐 Web Development  
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Streamlit`
+### 🌐 Web/Mobile Development  
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs)
 
 ### ⚙️ Backend Development
-`Node.js` `Express.js` `FastAPI` `Django` 
-
-### 📱 App Development  
-`React Native` `Kotlin` `Jetpack Compose`  
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,django)
 
 ### 🗄️ Databases  
-`MySQL` `Postgres` `MongoDB` `Firebase` `Supabase`
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,supabase)
 
 ### 🧰 Tools & Platforms  
-`Git` `GitHub` `VS Code` `Android Studio` `Docker` `Figma` `Notion`
-
-### 🤖 AI & Automation  
-`Ollama` `n8n` `RAG` `Gen AI`
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,docker,figma,notion,linux)
 
 ## 🏆 Achievements  
 - 🥇 Top 15 – TNSkills (Software Application Development)  
 - 🧠 Top 18 – Defy’26 Hackathon (Blockchain-based Invoice Funding Platform)  
 - 💡 LeetCode: 650+ problems solved | Max Rating: 1783  
-- 🔥 CodeChef: 2⭐ Rating (Max: 1425)  
+- 🔥 CodeChef: 2⭐ Rating | Max Rating: 1425
 
 ## 🌐 Connect With Me  
-- [`Linkedin`](https://www.linkedin.com/in/gokula-krishnan-s0010/)  
-- [`Email`](gokulakrishnans0010@gmail.com)  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gokula-krishnan-s0010/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gokulakrishnans0010@gmail.com)  
+
+
 <!--
 **Gokula-krishnan-0010/Gokula-krishnan-0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
