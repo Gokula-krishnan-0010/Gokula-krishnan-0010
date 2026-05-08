@@ -18,7 +18,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,supabase)
 
 ### 🧰 Tools & Platforms  
-![My Skills](https://skillicons.dev/icons?i=git,github,npm,vite,vscode,eclipse,androidstudio,docker,figma,notion,linux)
+![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,npm,vite,vscode,eclipse,androidstudio,notion,linux)
 
 ## 🏆 Achievements  
 - 🥇 Top 15 – TNSkills (Software Application Development)  
