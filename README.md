@@ -9,7 +9,7 @@
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,solidity,bash)
 
 ### 🌐 Web/Mobile Development  
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,threejs,nextjs)
 
 ### ⚙️ Backend Development
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,django)
@@ -18,7 +18,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,supabase)
 
 ### 🧰 Tools & Platforms  
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,docker,figma,notion,linux)
+![My Skills](https://skillicons.dev/icons?i=git,github,npm,vite,vscode,eclipse,androidstudio,docker,figma,notion,linux)
 
 ## 🏆 Achievements  
 - 🥇 Top 15 – TNSkills (Software Application Development)  
@@ -27,7 +27,7 @@
 - 🔥 CodeChef: 2⭐ Rating | Max Rating: 1425
 
 ## 🌐 Connect With Me  
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gokula-krishnan-s0010/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gokulakrishnans0010@gmail.com)  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gokula-krishnan-s0010/)   [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:gokulakrishnans0010@gmail.com)  
 
 
 <!--
