@@ -6,19 +6,19 @@
 ## 🛠️ Tech Stack  
 
 ### 💻 Programming Languages
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,solidity,bash)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,solidity,bash)
 
 ### 🌐 Web/Mobile Development  
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,threejs,nextjs)
 
 ### ⚙️ Backend Development
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,django)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,postman,fastapi,django)
 
 ### 🗄️ Databases  
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,supabase)
+![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,supabase,ipfs)
 
 ### 🧰 Tools & Platforms  
-![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,vercel,figma,npm,vite,vscode,eclipse,androidstudio,notion,linux)
+![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,gcp,vercel,figma,vite,npm,bun,vscode,eclipse,androidstudio,obsidian,notion,linux&perline=11)
 
 ## 🏆 Achievements  
 - 🥇 Top 15 – TNSkills (Software Application Development)  
